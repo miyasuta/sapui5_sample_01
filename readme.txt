@@ -1,4 +1,5 @@
  #### WELCOME ####
+2019.3.1 Comment updated.
 
 This is your copy of the SAPUI5 Master-Detail Freestyle Application Template.
 You can find the template version in the .project.json - file in your workspace
